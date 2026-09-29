@@ -1,0 +1,249 @@
+Student_ID,Country,Study_Level,University_Type,Age,Tuition_Fee_USD,Monthly_Living_Cost_USD,Scholarship_Status,English_Proficiency,Accommodation_Type,Part_Time_Work_Hours,Academic_GPA,Student_Satisfaction,Study_Status
+INTL1034,Germany,Undergraduate,Public,23,17455,,Yes,Intermediate,Homestay,19,2.84,4.0,Currently Enrolled
+INTL1007,Germany,Undergraduate,Public,23,25405,1860.0,No,Fluent,Private Rental,0,3.58,3.0,Graduated
+INTL1183,Germany,Postgraduate,Public,20,33318,1364.0,No,Advanced,Shared Apartment,2,2.84,2.0,Withdrawn
+INTL1087,Canada,Postgraduate,Private,23,22801,1111.0,No,,University Housing,8,2.99,3.0,Currently Enrolled
+INTL1157,Canada,Undergraduate,Private,18,29878,1551.0,No,Intermediate,University Housing,14,3.25,4.0,Graduated
+INTL1234,Netherlands,Undergraduate,Public,22,18649,640.0,No,Intermediate,Shared Apartment,5,2.61,2.0,Withdrawn
+INTL1196,Netherlands,Undergraduate,Public,25,24997,1422.0,No,Advanced,Shared Apartment,9,3.02,3.0,Currently Enrolled
+INTL1105,France,Postgraduate,Public,21,7000,776.0,No,Advanced,Private Rental,14,2.53,2.0,Currently Enrolled
+INTL1010,Australia,Postgraduate,Public,22,37958,,No,Advanced,Homestay,5,3.01,3.0,Graduated
+INTL1236,UK,Postgraduate,Public,20,20206,1390.0,Yes,Intermediate,University Housing,9,2.39,5.0,Graduated
+INTL1233,Canada,Undergraduate,Private,21,42444,656.0,No,Intermediate,Homestay,15,2.96,,Graduated
+INTL1237,Netherlands,Undergraduate,Private,25,20959,988.0,No,Intermediate,Shared Apartment,7,,4.0,Currently Enrolled
+INTL1239,France,Undergraduate,Public,21,18416,771.0,No,Advanced,Private Rental,14,2.83,5.0,Currently Enrolled
+INTL1179,Netherlands,Undergraduate,Public,27,13899,1080.0,No,Intermediate,Private Rental,25,3.19,4.0,Withdrawn
+INTL1067,Australia,Undergraduate,Private,22,29205,755.0,No,Intermediate,Shared Apartment,6,3.14,3.0,Currently Enrolled
+INTL1159,Canada,Postgraduate,Public,20,35716,1935.0,No,Intermediate,Private Rental,7,3.26,4.0,Graduated
+INTL1193,USA,Undergraduate,Public,22,20078,1164.0,No,Basic,University Housing,12,3.28,4.0,Currently Enrolled
+INTL1016,USA,Undergraduate,Public,25,22706,1267.0,No,Intermediate,Private Rental,21,3.56,3.0,Currently Enrolled
+INTL1184,Australia,Undergraduate,Private,22,33264,955.0,No,Basic,Private Rental,12,2.52,3.0,Currently Enrolled
+INTL1025,Ireland,Undergraduate,Public,18,43959,1664.0,No,Advanced,Homestay,18,2.68,3.0,Currently Enrolled
+INTL1121,USA,Undergraduate,Public,22,35402,1146.0,No,Fluent,University Housing,5,2.84,2.0,Currently Enrolled
+INTL1020,UK,Undergraduate,Public,22,25520,1860.0,No,Intermediate,Private Rental,9,3.51,4.0,Graduated
+INTL1113,Australia,Undergraduate,Private,26,21308,1626.0,Yes,Basic,Shared Apartment,7,2.87,3.0,Currently Enrolled
+INTL1068,USA,Undergraduate,Public,19,23701,1363.0,No,Advanced,Shared Apartment,20,3.7,4.0,Currently Enrolled
+INTL1223,Canada,Undergraduate,Private,26,23849,894.0,No,Advanced,Homestay,18,3.15,3.0,Graduated
+INTL1224,Ireland,Postgraduate,Private,18,35824,1641.0,Yes,Basic,Private Rental,5,2.51,5.0,Currently Enrolled
+INTL1201,USA,Undergraduate,Private,26,16535,1317.0,No,Intermediate,Shared Apartment,20,2.27,2.0,Currently Enrolled
+INTL1011,UK,Undergraduate,Public,24,12893,1134.0,No,Intermediate,Private Rental,11,,3.0,Graduated
+INTL1031,Ireland,Undergraduate,Public,19,23135,2223.0,No,Intermediate,Private Rental,7,2.85,3.0,Currently Enrolled
+INTL1097,Australia,Undergraduate,Public,25,35751,944.0,No,Advanced,University Housing,12,3.26,2.0,Currently Enrolled
+INTL1216,UK,Undergraduate,Public,20,19292,787.0,No,Intermediate,University Housing,0,3.01,4.0,Currently Enrolled
+INTL1110,USA,Undergraduate,Public,18,10804,,No,Advanced,Shared Apartment,2,2.61,3.0,Currently Enrolled
+INTL1118,Germany,Undergraduate,Public,24,19445,933.0,No,Intermediate,Homestay,6,3.52,2.0,Currently Enrolled
+INTL1026,UK,Undergraduate,Private,24,30840,720.0,Yes,Basic,Private Rental,6,2.38,2.0,Currently Enrolled
+INTL1173,USA,Undergraduate,Private,22,22760,1012.0,Yes,Advanced,University Housing,22,3.19,3.0,Graduated
+INTL1019,USA,Undergraduate,Private,20,17828,1325.0,No,Basic,Shared Apartment,22,2.84,3.0,Currently Enrolled
+INTL1133,Australia,Undergraduate,Public,23,21623,1476.0,No,Advanced,Private Rental,12,3.15,3.0,Currently Enrolled
+INTL1200,France,Undergraduate,Public,21,7000,1828.0,Yes,Intermediate,Shared Apartment,13,3.18,5.0,Currently Enrolled
+INTL1056,Australia,Undergraduate,Public,24,33266,1620.0,No,Fluent,Shared Apartment,4,2.97,2.0,Withdrawn
+INTL1046,Australia,Postgraduate,Public,21,26142,1344.0,Yes,Advanced,Private Rental,2,2.45,3.0,Graduated
+INTL1176,UK,Undergraduate,Public,23,19953,916.0,No,Intermediate,University Housing,10,2.87,2.0,Currently Enrolled
+INTL1110,USA,Undergraduate,Public,18,10804,,No,Advanced,Shared Apartment,2,2.61,3.0,Currently Enrolled
+INTL1061,Australia,Undergraduate,Public,21,11065,1264.0,No,Intermediate,University Housing,14,2.54,3.0,Currently Enrolled
+INTL1185,Australia,Undergraduate,Private,21,30991,1290.0,Yes,Intermediate,University Housing,3,2.78,3.0,Currently Enrolled
+INTL1017,UK,Postgraduate,Public,18,28272,1388.0,No,Intermediate,Shared Apartment,17,2.71,5.0,Currently Enrolled
+INTL1120,UK,Postgraduate,Public,22,20273,811.0,No,Basic,University Housing,13,1.86,3.0,Currently Enrolled
+INTL1069,Canada,Undergraduate,Private,23,7000,1554.0,No,Fluent,Homestay,16,,3.0,Withdrawn
+INTL1181,Canada,Postgraduate,Public,21,7068,1357.0,No,Advanced,Private Rental,17,2.81,2.0,Currently Enrolled
+INTL1039,France,Undergraduate,Private,20,27998,1000.0,No,,Shared Apartment,6,3.58,3.0,Graduated
+INTL1173,USA,Undergraduate,Private,22,22760,1012.0,Yes,Advanced,University Housing,22,3.19,3.0,Graduated
+INTL1156,UK,Undergraduate,Private,22,11153,1417.0,No,Advanced,Shared Apartment,21,3.32,4.0,Currently Enrolled
+INTL1213,France,Postgraduate,Public,24,21757,1353.0,No,Fluent,University Housing,8,3.88,4.0,Graduated
+INTL1119,France,Postgraduate,Public,20,38869,1845.0,No,Intermediate,Private Rental,17,3.06,5.0,Currently Enrolled
+INTL1197,France,Postgraduate,Public,20,21640,,No,Basic,University Housing,19,3.28,3.0,Currently Enrolled
+INTL1217,UK,Undergraduate,Public,20,40492,1414.0,No,Advanced,Private Rental,21,2.42,2.0,Graduated
+INTL1080,Australia,Undergraduate,Private,21,20918,1475.0,No,Basic,Homestay,17,2.3,4.0,Currently Enrolled
+INTL1148,Australia,Undergraduate,Public,18,25187,1745.0,No,Intermediate,Shared Apartment,12,,3.0,Currently Enrolled
+INTL1194,USA,Undergraduate,Public,18,28957,1169.0,No,Basic,University Housing,18,2.73,4.0,Graduated
+INTL1098,Australia,Undergraduate,Public,27,22699,,No,Intermediate,Homestay,1,3.06,4.0,Withdrawn
+INTL1155,Australia,Postgraduate,Public,24,18902,1354.0,No,Advanced,University Housing,13,3.15,2.0,Withdrawn
+INTL1076,UK,Undergraduate,Public,23,23677,1173.0,No,Fluent,Shared Apartment,13,3.67,4.0,Currently Enrolled
+INTL1083,UK,Postgraduate,Public,21,37596,1595.0,No,Intermediate,University Housing,11,2.89,4.0,Currently Enrolled
+INTL1102,France,Postgraduate,Public,25,22045,1587.0,No,Intermediate,University Housing,22,2.65,2.0,Currently Enrolled
+INTL1199,Ireland,Postgraduate,Public,22,22314,1777.0,No,Advanced,University Housing,9,3.67,2.0,Currently Enrolled
+INTL1127,Netherlands,Postgraduate,Public,24,9965,553.0,No,Intermediate,Shared Apartment,9,2.3,4.0,Currently Enrolled
+INTL1070,Australia,Undergraduate,Public,28,18640,1850.0,No,Intermediate,University Housing,12,3.24,3.0,Currently Enrolled
+INTL1202,Ireland,Undergraduate,Public,24,22135,450.0,Yes,Intermediate,University Housing,11,3.18,4.0,Currently Enrolled
+INTL1128,Germany,Undergraduate,Public,29,30343,1184.0,No,Intermediate,University Housing,2,3.52,3.0,Graduated
+INTL1115,UK,Undergraduate,Private,22,23487,713.0,Yes,Basic,Shared Apartment,5,2.72,4.0,Currently Enrolled
+INTL1195,Germany,Undergraduate,Private,20,10626,1461.0,No,Fluent,University Housing,10,3.14,3.0,Currently Enrolled
+INTL1109,Netherlands,Postgraduate,Public,28,29270,1274.0,No,Intermediate,Shared Apartment,13,2.72,4.0,Graduated
+INTL1114,Australia,Postgraduate,Public,18,33816,513.0,No,Intermediate,Private Rental,14,2.31,4.0,Currently Enrolled
+INTL1074,Ireland,Postgraduate,Private,20,20738,1508.0,No,Fluent,Shared Apartment,15,3.47,2.0,Withdrawn
+INTL1140,France,Undergraduate,Public,22,15930,2434.0,Yes,Advanced,Shared Apartment,15,3.06,4.0,Currently Enrolled
+INTL1030,Australia,Undergraduate,Public,24,28189,1484.0,No,Fluent,Private Rental,12,3.42,4.0,Currently Enrolled
+INTL1125,Canada,Undergraduate,Private,19,26814,1601.0,No,Advanced,Private Rental,13,2.7,4.0,Currently Enrolled
+INTL1116,Germany,Postgraduate,Public,20,33607,1194.0,No,Intermediate,University Housing,12,2.91,3.0,Currently Enrolled
+INTL1085,Australia,Undergraduate,Public,19,33361,833.0,No,Advanced,Shared Apartment,4,3.06,3.0,Currently Enrolled
+INTL1006,Canada,Undergraduate,Public,22,28024,1166.0,Yes,Advanced,Shared Apartment,9,2.49,5.0,Currently Enrolled
+INTL1057,France,Postgraduate,Public,22,40880,1848.0,No,Advanced,Shared Apartment,17,3.34,3.0,Currently Enrolled
+INTL1144,Netherlands,Postgraduate,Private,22,35340,1920.0,Yes,Intermediate,University Housing,11,2.07,,Currently Enrolled
+INTL1228,Canada,Postgraduate,Public,23,18402,1161.0,No,Intermediate,University Housing,7,3.46,3.0,Currently Enrolled
+INTL1153,Netherlands,Postgraduate,Private,19,21563,1092.0,Yes,Advanced,Shared Apartment,12,3.28,4.0,Currently Enrolled
+INTL1066,USA,Undergraduate,Private,19,20885,858.0,No,Advanced,Shared Apartment,2,2.73,3.0,Currently Enrolled
+INTL1171,Australia,Undergraduate,Private,22,24504,1053.0,Yes,Basic,University Housing,11,2.82,5.0,Graduated
+INTL1137,Canada,Postgraduate,Public,23,7000,808.0,No,Advanced,University Housing,5,3.34,3.0,Currently Enrolled
+INTL1212,Australia,Undergraduate,Public,27,20720,817.0,No,Advanced,Homestay,8,,4.0,Currently Enrolled
+INTL1147,Ireland,Undergraduate,Private,27,7000,1301.0,No,,Shared Apartment,6,2.79,3.0,Graduated
+INTL1032,Canada,Postgraduate,Public,18,24229,528.0,Yes,Intermediate,Shared Apartment,11,3.85,3.0,Withdrawn
+INTL1013,Ireland,Undergraduate,Public,27,31207,1892.0,No,,Shared Apartment,9,3.0,4.0,Graduated
+INTL1036,UK,Postgraduate,Private,22,26191,1698.0,No,Advanced,Homestay,5,3.97,3.0,Currently Enrolled
+INTL1029,France,Undergraduate,Private,19,8591,807.0,No,Advanced,University Housing,19,3.4,3.0,Currently Enrolled
+INTL1043,UK,Undergraduate,Public,23,25539,837.0,No,Advanced,Private Rental,5,3.53,5.0,Graduated
+INTL1169,Australia,Undergraduate,Private,19,21756,1763.0,No,Intermediate,Homestay,8,2.57,3.0,Currently Enrolled
+INTL1023,Australia,Undergraduate,Public,18,18405,882.0,No,Advanced,Homestay,11,3.14,4.0,Graduated
+INTL1094,France,Postgraduate,Public,27,22164,1625.0,No,Intermediate,Shared Apartment,13,3.37,4.0,Currently Enrolled
+INTL1168,Australia,Undergraduate,Private,22,7000,1679.0,No,Advanced,Private Rental,11,3.36,3.0,Withdrawn
+INTL1232,Netherlands,Postgraduate,Public,26,35246,542.0,No,Intermediate,Shared Apartment,18,2.75,4.0,Graduated
+INTL1052,USA,Postgraduate,Public,23,26717,788.0,No,Advanced,Shared Apartment,16,2.55,4.0,Currently Enrolled
+INTL1096,Netherlands,Undergraduate,Public,20,35410,1578.0,No,Intermediate,Shared Apartment,20,2.97,4.0,Currently Enrolled
+INTL1142,France,Undergraduate,Private,18,20453,1157.0,No,Fluent,University Housing,14,3.33,2.0,Graduated
+INTL1198,UK,Undergraduate,Public,23,7000,1268.0,No,Advanced,University Housing,21,2.55,4.0,Graduated
+INTL1077,Ireland,Undergraduate,Public,18,29504,1756.0,Yes,Advanced,University Housing,14,3.19,4.0,Currently Enrolled
+INTL1042,Australia,Undergraduate,Public,18,25978,1073.0,No,Basic,University Housing,11,2.82,4.0,Currently Enrolled
+INTL1112,Canada,Undergraduate,Public,21,20925,530.0,No,Intermediate,University Housing,17,2.85,2.0,Currently Enrolled
+INTL1151,UK,Postgraduate,Public,19,36229,906.0,Yes,Advanced,Shared Apartment,18,2.99,4.0,Currently Enrolled
+INTL1079,UK,Undergraduate,Private,28,27362,1538.0,Yes,Fluent,Shared Apartment,19,,3.0,Currently Enrolled
+INTL1166,Canada,Postgraduate,Private,21,12907,1721.0,Yes,,Homestay,9,3.64,3.0,Currently Enrolled
+INTL1027,Canada,Undergraduate,Public,19,32003,1661.0,No,Intermediate,University Housing,3,3.55,4.0,Currently Enrolled
+INTL1240,Canada,Undergraduate,Private,23,22471,681.0,Yes,Advanced,Shared Apartment,3,3.02,,Currently Enrolled
+INTL1163,Ireland,Undergraduate,Public,24,7000,1537.0,No,Advanced,Shared Apartment,11,4.0,4.0,Currently Enrolled
+INTL1187,Netherlands,Undergraduate,Public,26,36312,1286.0,No,Intermediate,Private Rental,12,3.17,4.0,Currently Enrolled
+INTL1141,Netherlands,Postgraduate,Public,24,20433,917.0,No,Advanced,University Housing,22,3.56,2.0,Currently Enrolled
+INTL1001,Canada,Undergraduate,Public,22,11960,1432.0,Yes,Advanced,Shared Apartment,18,2.76,4.0,Currently Enrolled
+INTL1003,UK,Undergraduate,Public,20,41436,1711.0,No,Advanced,Shared Apartment,12,2.65,3.0,Graduated
+INTL1078,Germany,Undergraduate,Public,23,26523,1283.0,No,Advanced,University Housing,14,2.94,4.0,Currently Enrolled
+INTL1047,UK,Undergraduate,Private,19,25121,1980.0,No,Advanced,Shared Apartment,9,2.97,4.0,Currently Enrolled
+INTL1101,Ireland,Undergraduate,Public,23,20030,1435.0,Yes,Advanced,Private Rental,17,2.99,3.0,Graduated
+INTL1126,Germany,Undergraduate,Public,23,22712,1906.0,No,Fluent,Shared Apartment,16,3.31,3.0,Graduated
+INTL1149,Canada,Undergraduate,Private,23,7000,922.0,Yes,Advanced,Shared Apartment,4,2.87,4.0,Currently Enrolled
+INTL1178,UK,Undergraduate,Public,22,16142,954.0,No,Advanced,Shared Apartment,24,2.79,4.0,Graduated
+INTL1091,France,Postgraduate,Public,24,27351,1562.0,Yes,Basic,Shared Apartment,11,3.3,5.0,Graduated
+INTL1086,Netherlands,Undergraduate,Public,20,11226,1280.0,No,Basic,Private Rental,10,2.62,2.0,Currently Enrolled
+INTL1174,Australia,Undergraduate,Public,24,28660,1403.0,Yes,,Private Rental,6,2.64,4.0,Currently Enrolled
+INTL1165,Netherlands,Undergraduate,Public,25,12447,1588.0,Yes,Fluent,University Housing,4,3.16,4.0,Withdrawn
+INTL1099,Canada,Undergraduate,Public,22,36642,914.0,No,Fluent,Private Rental,12,3.5,5.0,Currently Enrolled
+INTL1037,Netherlands,Postgraduate,Private,26,25779,1721.0,Yes,Intermediate,Shared Apartment,9,3.66,,Graduated
+INTL1145,France,Undergraduate,Private,22,15657,1040.0,No,Fluent,Homestay,12,4.0,3.0,Currently Enrolled
+INTL1062,Canada,Postgraduate,Public,21,23805,1245.0,Yes,Fluent,Private Rental,6,3.11,4.0,Currently Enrolled
+INTL1218,Germany,Undergraduate,Public,20,14307,1929.0,Yes,Basic,Private Rental,7,2.72,3.0,Withdrawn
+INTL1138,UK,Undergraduate,Public,22,18897,886.0,No,Advanced,Shared Apartment,20,3.68,1.0,Currently Enrolled
+INTL1012,Netherlands,Undergraduate,Public,23,16937,1269.0,No,Basic,Homestay,16,2.41,4.0,Withdrawn
+INTL1094,France,Postgraduate,Public,27,22164,1625.0,No,Intermediate,Shared Apartment,13,3.37,4.0,Currently Enrolled
+INTL1028,Ireland,Postgraduate,Private,21,33924,681.0,No,Intermediate,Homestay,7,3.24,3.0,Currently Enrolled
+INTL1230,Netherlands,Postgraduate,Public,20,37515,450.0,No,Fluent,Shared Apartment,0,3.16,3.0,Currently Enrolled
+INTL1005,USA,Undergraduate,Public,20,25535,2013.0,Yes,Advanced,Homestay,15,2.84,5.0,Currently Enrolled
+INTL1123,Germany,Undergraduate,Public,21,16664,1658.0,Yes,Fluent,University Housing,7,3.67,3.0,Currently Enrolled
+INTL1033,UK,Undergraduate,Public,28,32817,583.0,No,Intermediate,Shared Apartment,12,3.21,3.0,Graduated
+INTL1143,UK,Undergraduate,Public,19,31850,,No,Advanced,University Housing,10,2.87,4.0,Withdrawn
+INTL1177,USA,Undergraduate,Public,18,14384,1252.0,No,Basic,University Housing,5,2.52,4.0,Currently Enrolled
+INTL1139,Australia,Undergraduate,Private,24,22988,,Yes,,University Housing,5,2.55,4.0,Currently Enrolled
+INTL1063,Canada,Undergraduate,Private,25,45708,1378.0,No,Fluent,Private Rental,11,3.82,3.0,Currently Enrolled
+INTL1136,USA,Postgraduate,Private,18,7000,1592.0,No,Intermediate,University Housing,0,2.73,3.0,Currently Enrolled
+INTL1129,Germany,Undergraduate,Public,29,30720,1334.0,No,Advanced,Private Rental,7,3.4,4.0,Currently Enrolled
+INTL1225,France,Postgraduate,Private,26,36155,1228.0,No,Basic,University Housing,13,2.32,4.0,Currently Enrolled
+INTL1210,France,Undergraduate,Public,19,29107,1173.0,No,Fluent,Shared Apartment,11,3.53,4.0,Graduated
+INTL1071,France,Undergraduate,Private,22,31580,1167.0,No,Intermediate,Shared Apartment,26,3.24,5.0,Currently Enrolled
+INTL1191,USA,Undergraduate,Public,23,37264,916.0,No,Intermediate,Private Rental,4,2.52,3.0,Currently Enrolled
+INTL1065,Germany,Undergraduate,Public,20,16192,1872.0,Yes,Basic,Private Rental,11,2.3,3.0,Currently Enrolled
+INTL1045,France,Undergraduate,Public,26,16250,1337.0,No,Fluent,Private Rental,21,3.31,2.0,Graduated
+INTL1160,USA,Undergraduate,Private,23,26135,1050.0,Yes,Intermediate,Private Rental,18,2.68,4.0,Withdrawn
+INTL1041,UK,Postgraduate,Private,20,21671,1660.0,No,Basic,Private Rental,14,2.57,4.0,Withdrawn
+INTL1124,USA,Undergraduate,Public,22,31094,450.0,No,Intermediate,Shared Apartment,11,3.35,3.0,Currently Enrolled
+INTL1154,Germany,Postgraduate,Public,21,28749,1281.0,No,Fluent,Shared Apartment,15,3.85,4.0,Currently Enrolled
+INTL1024,Australia,Undergraduate,Private,21,24263,1216.0,Yes,Intermediate,University Housing,12,3.11,3.0,Graduated
+INTL1186,Australia,Postgraduate,Private,25,33111,1807.0,No,Advanced,Shared Apartment,9,2.67,3.0,Graduated
+INTL1182,Australia,Postgraduate,Public,20,7000,659.0,No,Intermediate,University Housing,21,2.53,2.0,Currently Enrolled
+INTL1082,Canada,Undergraduate,Private,24,37797,1113.0,No,Advanced,Private Rental,1,2.85,3.0,Currently Enrolled
+INTL1040,Australia,Undergraduate,Public,20,24614,973.0,No,Advanced,Shared Apartment,23,3.74,4.0,Graduated
+INTL1209,Australia,Postgraduate,Public,24,33423,798.0,No,Intermediate,Private Rental,12,3.03,4.0,Graduated
+INTL1048,Canada,Undergraduate,Public,18,23108,1018.0,Yes,,Shared Apartment,10,2.45,2.0,Currently Enrolled
+INTL1095,Australia,Postgraduate,Public,28,46094,1930.0,Yes,Intermediate,Shared Apartment,8,3.22,3.0,Graduated
+INTL1007,Germany,Undergraduate,Public,23,25405,1860.0,No,Fluent,Private Rental,0,3.58,3.0,Graduated
+INTL1162,Australia,Undergraduate,Private,23,14926,2020.0,Yes,Advanced,University Housing,9,3.76,3.0,Graduated
+INTL1044,Ireland,Postgraduate,Private,18,24123,1098.0,No,Advanced,Private Rental,9,3.03,4.0,Graduated
+INTL1146,USA,Undergraduate,Public,27,37797,913.0,No,Advanced,University Housing,11,3.75,5.0,Currently Enrolled
+INTL1238,UK,Postgraduate,Public,21,29884,803.0,Yes,Basic,Shared Apartment,8,2.95,3.0,Currently Enrolled
+INTL1004,Canada,Undergraduate,Public,20,18800,2375.0,No,Fluent,Private Rental,17,3.25,4.0,Currently Enrolled
+INTL1106,Germany,Undergraduate,Public,26,32718,912.0,No,Fluent,Homestay,6,3.62,2.0,Currently Enrolled
+INTL1054,Netherlands,Undergraduate,Private,20,28602,850.0,Yes,Basic,Homestay,14,2.77,4.0,Currently Enrolled
+INTL1134,Canada,Undergraduate,Public,24,22158,1110.0,No,Advanced,University Housing,14,3.47,4.0,Currently Enrolled
+INTL1226,Germany,Postgraduate,Private,20,13476,1183.0,No,Basic,University Housing,16,2.93,3.0,Currently Enrolled
+INTL1221,Germany,Postgraduate,Private,23,34517,474.0,No,Advanced,Homestay,8,2.88,3.0,Graduated
+INTL1231,Netherlands,Undergraduate,Public,23,17475,1165.0,Yes,Intermediate,University Housing,6,2.58,5.0,Currently Enrolled
+INTL1050,USA,Undergraduate,Public,26,20686,1395.0,No,Advanced,University Housing,12,3.38,4.0,Currently Enrolled
+INTL1164,USA,Undergraduate,Public,21,13997,1592.0,No,Advanced,Shared Apartment,21,3.23,3.0,Currently Enrolled
+INTL1081,UK,Postgraduate,Public,22,29243,809.0,No,Intermediate,Shared Apartment,10,3.37,3.0,Currently Enrolled
+INTL1035,France,Postgraduate,Public,28,45735,1479.0,No,Advanced,Homestay,7,2.93,2.0,Currently Enrolled
+INTL1205,Netherlands,Undergraduate,Public,25,34045,862.0,No,Fluent,Homestay,21,2.44,3.0,Currently Enrolled
+INTL1008,France,Undergraduate,Public,20,25372,875.0,Yes,Fluent,Private Rental,9,3.72,4.0,Currently Enrolled
+INTL1172,Ireland,Postgraduate,Public,20,15860,1343.0,No,Advanced,Shared Apartment,15,3.13,2.0,Currently Enrolled
+INTL1111,Australia,Postgraduate,Private,25,26570,1549.0,No,Advanced,Homestay,12,3.43,4.0,Currently Enrolled
+INTL1092,Australia,Undergraduate,Public,21,19165,1468.0,No,Intermediate,Private Rental,20,2.29,4.0,Graduated
+INTL1084,Netherlands,Undergraduate,Public,24,37990,,Yes,Basic,Private Rental,14,2.94,5.0,Currently Enrolled
+INTL1222,Australia,Postgraduate,Public,23,27201,1597.0,Yes,Fluent,Private Rental,11,3.54,4.0,Currently Enrolled
+INTL1227,Netherlands,Undergraduate,Public,21,30829,450.0,No,Advanced,Private Rental,9,3.31,4.0,Currently Enrolled
+INTL1090,Germany,Undergraduate,Public,28,33862,1330.0,No,Advanced,Private Rental,11,3.72,,Currently Enrolled
+INTL1009,France,Undergraduate,Private,18,30673,784.0,No,Advanced,Private Rental,8,3.97,2.0,Graduated
+INTL1014,UK,Undergraduate,Public,18,37782,1814.0,Yes,Intermediate,Homestay,13,2.58,3.0,Currently Enrolled
+INTL1060,USA,Undergraduate,Private,23,27405,980.0,No,Advanced,Private Rental,17,2.99,3.0,Currently Enrolled
+INTL1214,USA,Undergraduate,Public,18,19267,1888.0,No,Fluent,Shared Apartment,26,3.05,4.0,Currently Enrolled
+INTL1132,UK,Undergraduate,Public,22,24462,1005.0,No,Advanced,University Housing,12,2.39,3.0,Currently Enrolled
+INTL1018,Australia,Postgraduate,Public,19,19452,1121.0,No,Advanced,Shared Apartment,19,3.35,4.0,Graduated
+INTL1167,UK,Undergraduate,Public,24,36013,1334.0,Yes,,University Housing,13,2.81,4.0,Graduated
+INTL1073,Canada,Undergraduate,Public,22,20570,2406.0,Yes,Advanced,University Housing,14,3.13,3.0,Currently Enrolled
+INTL1219,UK,Undergraduate,Public,18,34817,1486.0,Yes,Advanced,Shared Apartment,30,3.23,4.0,Graduated
+INTL1135,Canada,Undergraduate,Public,23,31507,1133.0,No,Fluent,Shared Apartment,22,3.65,3.0,Graduated
+INTL1235,Netherlands,Undergraduate,Public,20,20638,,No,Advanced,Private Rental,15,,3.0,Graduated
+INTL1229,USA,Undergraduate,Private,20,32061,1359.0,No,Basic,Homestay,1,2.53,4.0,Currently Enrolled
+INTL1064,Australia,Undergraduate,Public,19,25179,1374.0,No,Basic,University Housing,12,2.63,3.0,Graduated
+INTL1055,France,Undergraduate,Public,24,18305,1775.0,No,Advanced,University Housing,6,3.47,3.0,Currently Enrolled
+INTL1108,Ireland,Undergraduate,Public,19,19263,1292.0,Yes,Advanced,Shared Apartment,6,3.7,3.0,Graduated
+INTL1051,Ireland,Undergraduate,Private,20,9548,865.0,No,Intermediate,University Housing,14,2.27,3.0,Currently Enrolled
+INTL1206,Germany,Undergraduate,Private,23,7000,1565.0,No,Intermediate,Shared Apartment,21,,3.0,Currently Enrolled
+INTL1175,Germany,Postgraduate,Public,23,28916,870.0,Yes,Advanced,Homestay,3,2.6,4.0,Graduated
+INTL1207,Germany,Undergraduate,Public,20,40275,675.0,No,Intermediate,Private Rental,16,3.02,4.0,Currently Enrolled
+INTL1190,Germany,Undergraduate,Public,24,15326,1662.0,No,Basic,University Housing,21,3.04,4.0,Currently Enrolled
+INTL1105,France,Postgraduate,Public,21,7000,776.0,No,Advanced,Private Rental,14,2.53,2.0,Currently Enrolled
+INTL1208,UK,Postgraduate,Private,25,12461,966.0,No,Intermediate,Private Rental,3,3.54,,Currently Enrolled
+INTL1220,Australia,Undergraduate,Private,22,33371,726.0,No,Advanced,Homestay,12,3.03,4.0,Graduated
+INTL1170,Canada,Postgraduate,Public,23,16040,1095.0,Yes,Fluent,Shared Apartment,13,4.0,2.0,Currently Enrolled
+INTL1059,USA,Postgraduate,Private,20,29709,2090.0,No,Basic,University Housing,14,2.6,3.0,Withdrawn
+INTL1049,Canada,Undergraduate,Private,20,25032,1059.0,No,Fluent,University Housing,10,4.0,3.0,Currently Enrolled
+INTL1089,USA,Postgraduate,Private,21,23909,1357.0,No,Advanced,Private Rental,15,2.61,2.0,Currently Enrolled
+INTL1022,Canada,Undergraduate,Public,20,18749,,No,Intermediate,University Housing,0,2.56,4.0,Currently Enrolled
+INTL1058,Germany,Undergraduate,Public,18,23495,,No,Intermediate,Private Rental,9,2.92,3.0,Currently Enrolled
+INTL1204,Ireland,Postgraduate,Public,21,27054,1656.0,No,Advanced,Private Rental,3,3.01,3.0,Currently Enrolled
+INTL1161,Ireland,Undergraduate,Public,22,37193,1715.0,Yes,Intermediate,Private Rental,18,3.38,4.0,Currently Enrolled
+INTL1025,Ireland,Undergraduate,Public,18,43959,1664.0,No,Advanced,Homestay,18,2.68,3.0,Currently Enrolled
+INTL1188,Netherlands,Undergraduate,Public,20,32374,1307.0,Yes,Fluent,Homestay,15,3.92,2.0,Currently Enrolled
+INTL1192,Canada,Undergraduate,Public,25,26784,1089.0,Yes,Advanced,University Housing,16,3.89,3.0,Currently Enrolled
+INTL1130,France,Undergraduate,Private,24,23702,1376.0,No,Advanced,Homestay,6,3.16,3.0,Currently Enrolled
+INTL1038,Canada,Postgraduate,Private,24,11237,1405.0,No,Advanced,Shared Apartment,10,2.51,4.0,Withdrawn
+INTL1158,USA,Postgraduate,Public,20,25043,1930.0,No,Advanced,Shared Apartment,6,3.17,3.0,Currently Enrolled
+INTL1234,Netherlands,Undergraduate,Public,22,18649,640.0,No,Intermediate,Shared Apartment,5,2.61,2.0,Withdrawn
+INTL1002,Canada,Undergraduate,Private,22,17062,450.0,Yes,Basic,University Housing,5,3.3,3.0,Currently Enrolled
+INTL1053,Australia,Postgraduate,Public,24,31317,1297.0,Yes,Intermediate,Shared Apartment,7,3.21,3.0,Graduated
+INTL1150,USA,Undergraduate,Public,24,37561,732.0,No,Advanced,Shared Apartment,6,2.83,3.0,Currently Enrolled
+INTL1131,USA,Postgraduate,Public,18,16014,668.0,Yes,Advanced,Shared Apartment,1,3.46,3.0,Graduated
+INTL1152,Ireland,Postgraduate,Private,21,25331,1149.0,No,Intermediate,Homestay,9,2.3,3.0,Graduated
+INTL1104,Australia,Undergraduate,Public,25,12723,706.0,No,Advanced,Homestay,9,3.4,2.0,Currently Enrolled
+INTL1100,France,Undergraduate,Public,20,19638,1147.0,No,Advanced,University Housing,19,3.55,4.0,Currently Enrolled
+INTL1117,Germany,Undergraduate,Public,19,18495,1586.0,No,Intermediate,Shared Apartment,11,2.87,4.0,Graduated
+INTL1088,Canada,Undergraduate,Public,22,30850,1761.0,No,Fluent,Homestay,2,3.36,5.0,Currently Enrolled
+INTL1203,Germany,Undergraduate,Private,22,40980,1075.0,No,Advanced,Shared Apartment,9,3.48,2.0,Graduated
+INTL1075,Australia,Undergraduate,Private,22,24838,462.0,No,Fluent,Shared Apartment,14,2.9,3.0,Currently Enrolled
+INTL1215,USA,Postgraduate,Public,22,26914,926.0,No,Intermediate,Private Rental,8,2.86,3.0,Graduated
+INTL1211,Netherlands,Postgraduate,Public,21,25548,1365.0,No,Advanced,Shared Apartment,2,3.17,2.0,Withdrawn
+INTL1122,Canada,Undergraduate,Public,26,9362,1204.0,No,Intermediate,Private Rental,7,3.26,3.0,Currently Enrolled
+INTL1087,Canada,Postgraduate,Private,23,22801,1111.0,No,,University Housing,8,2.99,3.0,Currently Enrolled
+INTL1021,France,Postgraduate,Public,24,21863,1133.0,No,Intermediate,Shared Apartment,5,,3.0,Currently Enrolled
+INTL1189,UK,Postgraduate,Public,25,30403,,Yes,Advanced,Shared Apartment,15,3.38,,Currently Enrolled
+INTL1072,Canada,Undergraduate,Public,18,21269,1421.0,Yes,Advanced,Private Rental,17,3.31,5.0,Withdrawn
+INTL1107,UK,Undergraduate,Public,23,23416,895.0,No,Intermediate,University Housing,17,2.87,2.0,Currently Enrolled
+INTL1015,Germany,Undergraduate,Private,18,39510,1554.0,Yes,Intermediate,Homestay,20,3.92,3.0,Graduated
+INTL1093,France,Postgraduate,Public,18,21793,1256.0,No,Advanced,Shared Apartment,26,2.62,3.0,Currently Enrolled
+INTL1180,Netherlands,Postgraduate,Public,24,19196,1296.0,No,Intermediate,Homestay,19,2.03,5.0,Graduated
+INTL1103,Australia,Undergraduate,Public,18,29329,774.0,Yes,Intermediate,Private Rental,8,3.17,5.0,Currently Enrolled
